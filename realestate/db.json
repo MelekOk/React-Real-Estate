@@ -1,0 +1,351 @@
+{
+  "pages": [
+    {
+      "id": "1",
+      "name": "Anasayfa",
+      "slug": "anasayfa",
+      "content": "Anasayfa içeriği buraya gelecek."
+    },
+    {
+      "id": "2",
+      "name": "Hakkımızda",
+      "slug": "hakkimizda",
+      "content": "Misyonumuz, müşterilerimize en yüksek kaliteyi ve en uygun fiyatları sunarak, emlak ihtiyaçlarını en iyi şekilde karşılamaktır. Yenilikçi yaklaşımlarımız ve müşteri odaklı hizmet anlayışımızla, güvenilir ve kapsamlı çözümler sunarak sektördeki en iyi hizmeti sağlamayı hedefliyoruz. Vizyonumuz ise, sektördeki lider konumumuzu sürdürülebilir ve etkili çözümlerle güçlendirerek, müşterilerimizin güvenilir iş ortağı olmaktır."
+    },
+    {
+      "id": "3",
+      "name": "İlanlar",
+      "slug": "ilanlar",
+      "content": "Tüm ilanlarımız."
+    },
+    {
+      "id": "4",
+      "name": "Kategoriler",
+      "slug": "kategoriler",
+      "content": "Kategoriler sayfası içeriği buraya gelecek."
+    },
+    {
+      "id": "5",
+      "name": "Temsilcilerimiz",
+      "slug": "temsilcilerimiz",
+      "content": "Gelişmiş emlak hizmetleri sunan uzman temsilcilerimizle tanışın. Yılların verdiği deneyim ve derin sektörel bilgiye sahip profesyonellerimiz, sizin için en uygun mülkleri bulma ve yatırım fırsatlarını değerlendirme konusunda size en iyi desteği sağlar. Her biri alanında uzmanlaşmış temsilcilerimiz, müşteri memnuniyetini ön planda tutarak, beklentilerinizi karşılamak için kişiye özel hizmet sunar."
+    },
+    {
+      "id": "6",
+      "name": "İletişim",
+      "slug": "iletisim",
+      "content": "Sizden haber almak bizi mutlu eder! Her türlü soru, öneri veya geri bildiriminiz için bizimle iletişime geçebilirsiniz. Profesyonel ekibimiz, sizinle en kısa sürede iletişime geçerek ihtiyaçlarınıza yönelik en iyi çözümleri sunmak için burada. İletişim bilgilerimiz ve form aracılığıyla bize kolayca ulaşabilirsiniz. Size yardımcı olmak için sabırsızlanıyoruz!"
+    },
+    {
+      "id": "7",
+      "name": "Favorilerim",
+      "slug": "favorilerim",
+      "content": "Favori sayfam."
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Satılık",
+      "slug": "satilik",
+      "subCategories": [
+        {
+          "id": 1,
+          "name": "Villa",
+          "slug": "villa"
+        },
+        {
+          "id": 2,
+          "name": "Daire",
+          "slug": "daire"
+        },
+        {
+          "id": 3,
+          "name": "Arsa",
+          "slug": "arsa"
+        },
+        {
+          "id": 4,
+          "name": "Dükkan",
+          "slug": "dukkan"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kiralık",
+      "slug": "kiralik",
+      "subCategories": [
+        {
+          "id": 5,
+          "name": "Villa",
+          "slug": "villa"
+        },
+        {
+          "id": 6,
+          "name": "Daire",
+          "slug": "daire"
+        },
+        {
+          "id": 7,
+          "name": "Arsa",
+          "slug": "arsa"
+        },
+        {
+          "id": 8,
+          "name": "Dükkan",
+          "slug": "dukkan"
+        }
+      ]
+    }
+  ],
+  "cities": [
+    {
+      "id": "1",
+      "name": "İstanbul"
+    },
+    {
+      "id": "2",
+      "name": "Ankara"
+    },
+    {
+      "id": "3",
+      "name": "İzmir"
+    }
+  ],
+  "testimons": [
+    {
+      "id": "1",
+      "description": "Çok ilgililer, tanıştığım için mutluyum.",
+      "img": "/img/testimonials/testimonials-1.jpg",
+      "name": "Yahya Çelik",
+      "job": "Ceo"
+    },
+    {
+      "id": "2",
+      "description": "Hayallerimdeki eve kavuştum, çok teşekkür ederim.",
+      "img": "/img/testimonials/testimonials-2.jpg",
+      "name": "Meltem Kalem",
+      "job": "Uzman"
+    },
+    {
+      "id": "3",
+      "description": "Çok ilgililer, herkese tavsiye ederim.",
+      "img": "/img/testimonials/testimonials-3.jpg",
+      "name": "Zeynep Çelik",
+      "job": "Müdür"
+    },
+    {
+      "id": "4",
+      "description": "Çok ilgililer, tanıştığım için mutluyum.",
+      "img": "/img/testimonials/testimonials-4.jpg",
+      "name": "Kemal Uçar",
+      "job": "Ceo"
+    }
+  ],
+  "properties": [
+    {
+      "id": "1",
+      "title": "Boğaz Manzaralı Lüks Villa",
+      "slug": "bogaz-manzaralı-luks-villa",
+      "description": "İstanbul Boğazı'na nazır, 5 yatak odalı, özel havuzlu lüks villa.",
+      "price": 25000000,
+      "status": "Satılık",
+      "imageUrl": "img/properties/property-1.jpg",
+      "area": "340m2",
+      "images": [
+        "/img/property-slide/property-slide-1.jpg",
+        "/img/property-slide/property-slide-2.jpg",
+        "/img/property-slide/property-slide-3.jpg"
+      ],
+      "bed": 5,
+      "bath": 2,
+      "garage": 2,
+      "videoUrl": "https://www.youtube.com/embed/bTygaqwxs14?si=7JyVko37J1ECqTz0",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6014.556209193245!2d29.0492408!3d41.0847699!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1724159753848!5m2!1str!2str",
+      "categoryId": 1,
+      "subCategories": [
+        1
+      ],
+      "cityId": 1,
+      "agentId": 1
+    },
+    {
+      "id": "2",
+      "title": "Ankara Çankaya'da Modern Daire",
+      "slug": "ankara-cankaya-da-modern-daire",
+      "description": "Çankaya'nın kalbinde, 2 yatak odalı, yeni yapılı modern daire.",
+      "price": 1500000,
+      "status": "Kiralık",
+      "imageUrl": "img/properties/property-2.jpg",
+      "area": "240m2",
+      "images": [
+        "/img/property-slide/property-slide-1.jpg",
+        "/img/property-slide/property-slide-2.jpg",
+        "/img/property-slide/property-slide-3.jpg"
+      ],
+      "bed": 2,
+      "bath": 2,
+      "garage": 1,
+      "videoUrl": "https://www.youtube.com/embed/bTygaqwxs14?si=7JyVko37J1ECqTz0",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6014.556209193245!2d29.0492408!3d41.0847699!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1724159753848!5m2!1str!2str",
+      "categoryId": 2,
+      "subCategories": [
+        6
+      ],
+      "cityId": 2,
+      "agentId": 2
+    },
+    {
+      "id": "3",
+      "title": "İzmir Bornova'da Bahçeli Villa",
+      "slug": "izmir-bornova-da-bahceli-villa",
+      "description": "Doğa ile iç içe, İzmir Bornova'da geniş bahçeli müstakil ev.",
+      "price": 5000000,
+      "status": "Satılık",
+      "imageUrl": "img/properties/property-3.jpg",
+      "area": "440m2",
+      "images": [
+        "/img/property-slide/property-slide-1.jpg",
+        "/img/property-slide/property-slide-2.jpg",
+        "/img/property-slide/property-slide-3.jpg"
+      ],
+      "bed": 4,
+      "bath": 3,
+      "garage": 3,
+      "videoUrl": "https://www.youtube.com/embed/bTygaqwxs14?si=7JyVko37J1ECqTz0",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6014.556209193245!2d29.0492408!3d41.0847699!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1724159753848!5m2!1str!2str",
+      "categoryId": 1,
+      "subCategories": [
+        1
+      ],
+      "cityId": 3,
+      "agentId": 2
+    },
+    {
+      "id": "4",
+      "title": "İzmir Bornova'da Dükkan",
+      "slug": "izmir-bornova-da-dukkan",
+      "description": "Doğa ile iç içe dükkan.",
+      "price": 5000000,
+      "status": "Satılık",
+      "imageUrl": "img/properties/property-4.jpg",
+      "area": "440m2",
+      "images": [
+        "/img/property-slide/property-slide-1.jpg",
+        "/img/property-slide/property-slide-2.jpg",
+        "/img/property-slide/property-slide-3.jpg"
+      ],
+      "bed": 0,
+      "bath": 1,
+      "garage": 3,
+      "videoUrl": "https://www.youtube.com/embed/bTygaqwxs14?si=7JyVko37J1ECqTz0",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6014.556209193245!2d29.0492408!3d41.0847699!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1724159753848!5m2!1str!2str",
+      "categoryId": 1,
+      "subCategories": [
+        4
+      ],
+      "cityId": 3,
+      "agentId": 2
+    },
+    {
+      "id": "5",
+      "title": "Ankara'da arsa",
+      "slug": "ankara-da-arsa",
+      "description": "Çankaya'nın kalbinde arsa.",
+      "price": 500000,
+      "status": "Kiralık",
+      "imageUrl": "img/properties/property-5.jpg",
+      "area": "840m2",
+      "images": [
+        "/img/property-slide/property-slide-1.jpg",
+        "/img/property-slide/property-slide-2.jpg",
+        "/img/property-slide/property-slide-3.jpg"
+      ],
+      "bed": 0,
+      "bath": 0,
+      "garage": 0,
+      "videoUrl": "https://www.youtube.com/embed/bTygaqwxs14?si=7JyVko37J1ECqTz0",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6014.556209193245!2d29.0492408!3d41.0847699!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1724159753848!5m2!1str!2str",
+      "categoryId": 2,
+      "subCategories": [
+        7
+      ],
+      "cityId": 2,
+      "agentId": 2
+    },
+    {
+      "id": "6",
+      "title": "İstanbul'da Modern Daire",
+      "slug": "istanbul-da-modern-daire",
+      "description": "İstanbul'un kalbinde, 2 yatak odalı, yeni yapılı modern daire.",
+      "price": 1500000,
+      "status": "Kiralık",
+      "imageUrl": "img/properties/property-6.jpg",
+      "area": "240m2",
+      "images": [
+        "/img/property-slide/property-slide-1.jpg",
+        "/img/property-slide/property-slide-2.jpg",
+        "/img/property-slide/property-slide-3.jpg"
+      ],
+      "bed": 2,
+      "bath": 2,
+      "garage": 1,
+      "videoUrl": "https://www.youtube.com/embed/bTygaqwxs14?si=7JyVko37J1ECqTz0",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d6014.556209193245!2d29.0492408!3d41.0847699!3m2!1i1024!2i768!4f13.1!5e0!3m2!1str!2str!4v1724159753848!5m2!1str!2str",
+      "categoryId": 2,
+      "subCategories": [
+        6
+      ],
+      "cityId": 1,
+      "agentId": 2
+    }
+  ],
+  "agents": [
+    {
+      "id": "1",
+      "name": "Ahmet Yılmaz",
+      "departman": "Şef",
+      "imageUrl": "img/team/team-1.jpg",
+      "properties": [
+        1
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Ayşe Papatya",
+      "departman": "Müdür",
+      "imageUrl": "img/team/team-2.jpg",
+      "properties": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Eren Pamuk",
+      "departman": "Satış Uzmanı",
+      "imageUrl": "img/team/team-3.jpg",
+      "properties": [
+        2,
+        3
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "id": "99ae",
+      "name": "melek",
+      "email": "melek@info",
+      "subject": "melek subject",
+      "message": "message"
+    },
+    {
+      "id": "5835",
+      "name": "deneme name",
+      "email": "deneme@deneme",
+      "subject": "deneme subject",
+      "message": "denemeee"
+    }
+  ]
+}

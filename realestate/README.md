@@ -1,4 +1,4 @@
-# React-Real-Estate
+# Emlak Web Sitesi
 
 Bu proje, Türkiye'de emlak ilanlarını listeleyen ve filtreleyen bir web sitesidir. 
 Kullanıcılar, ilanları arama ve filtreleme özellikleri ile inceleyebilir.
@@ -19,7 +19,7 @@ Projeyi yerel olarak çalıştırmak için aşağıdaki adımları takip edebili
 1. **Depoyu Klonlayın**
 
    ```bash
-   git clone https://github.com/kullanici-adi/realestate.git
+   git clone https://github.com/MelekOk/realestate.git
 Gerekli Paketleri Yükleyin
 
 Proje kök dizinine gidin ve gerekli paketleri yüklemek için:
@@ -71,4 +71,3 @@ Proje hakkında sorularınız varsa, melek-ok@hotmail.com ile iletişime geçebi
 - **Katkıda Bulunma**: Katkıda bulunmak isteyenler için yönergeler.
 - **Lisans**: Projenizin lisans türü.
 - **İletişim**: İletişim bilgileri.
-
